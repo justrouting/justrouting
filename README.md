@@ -12,6 +12,7 @@ JustRouting provides simple APIs for:
 
 - [Go Client](https://github.com/justrouting/go-client)
 - [Python Client](https://github.com/justrouting/py-client)
+- [JavaScript Client](https://github.com/justrouting/js-client)
 - [Demo](https://github.com/justrouting/demo)
 
 ## Get Started
