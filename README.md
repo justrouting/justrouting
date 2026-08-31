@@ -2,7 +2,11 @@
 
 Super lightweight routing API. Simple, fast, and developer-friendly.
 
-JustRouting provides simple APIs for:
+Powered by OSRM and VROOM.
+
+Currently focused on Southeast Asia.
+
+JustRouting provides APIs including but not limited to:
 
 - Directions / Routing
 - Distance Matrix
