@@ -19,6 +19,10 @@ JustRouting provides APIs including but not limited to:
 - [JavaScript Client](https://github.com/justrouting/js-client)
 - [Demo](https://github.com/justrouting/demo)
 
+## MCP
+
+- [MCP](https://github.com/justrouting/mcp)
+
 ## Get Started
 
 Start using JustRouting in 30 seconds for $0.
