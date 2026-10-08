@@ -1,16 +1,12 @@
 # JustRouting
 
-Super lightweight routing API. Simple, fast, and developer-friendly.
+**Just Routing APIs for Southeast Asia**
 
-Powered by OSRM and VROOM.
+Built for developers. Ready for AI agents.
 
-Currently focused on Southeast Asia.
+Driving routes, distance matrices, geocoding, and fleet optimization — with car and motorcycle profiles.
 
-JustRouting provides APIs including but not limited to:
-
-- Directions / Routing
-- Distance Matrix
-- Fleet Optimization
+Start in 30 seconds. No DevOps, no sales calls, no surprise bills.
 
 ## SDKs
 
