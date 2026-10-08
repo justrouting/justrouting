@@ -1,10 +1,10 @@
 # JustRouting
 
-**Just Routing APIs for Southeast Asia**
+**Routing APIs for Southeast Asia**
 
 Built for developers. Ready for AI agents.
 
-Driving routes, distance matrices, geocoding, and fleet optimization — with car and motorcycle profiles.
+Directions, distance matrices, map matching, trip, nearest, geocoding and fleet optimization — with `car` and `motorcycle` profiles.
 
 Start in 30 seconds. No DevOps, no sales calls, no surprise bills.
 
